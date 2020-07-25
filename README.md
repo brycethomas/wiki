@@ -21,3 +21,8 @@
   arithmetic functions and accesses to anywhere in a large global memory are all
   counted as unit-cost operations.  Points out that this model is highly
   unrealistic on modern hardware, especially GPUs.
+* [(1996) Latency and the Quest for Interactivity](stuartcheshire.org/papers/LatencyQuest.pdf):
+  Whitepaper describing the lack of attention given to latency in computer
+  modems at the time.  Includes some back-of-the-envelope calculations on where
+  latency is introduced, and what latency thresholds are required for certain
+  applications.  Briefly touches on latency hiding techniques.
