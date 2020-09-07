@@ -1,3 +1,5 @@
+### Articles
+
 * [(2020) Thriving in a crowded and changing world: C++ 2006–2020](https://dl.acm.org/doi/abs/10.1145/3386320):
   a medium-length (168 pages) retrospective on the evolution of C++ by Bjarne
   Stroustrup (creator of C++).  Title nominally says 2006-2020, but there's also
@@ -26,3 +28,13 @@
   modems at the time.  Includes some back-of-the-envelope calculations on where
   latency is introduced, and what latency thresholds are required for certain
   applications.  Briefly touches on latency hiding techniques.
+
+### Books
+
+* [(2019) Essential TypeScript](https://www.amazon.com/dp/B07WZXYTRH/):
+  Tutorial-style book describing the TypeScript language which "builds on the
+  Javascript type system to create a safer and more productive development
+  experience".  Book is heavily focused on practitioners, with follow-along code
+  samples.  Also explains the ecosystem toolchain (npm, webpack, node, etc.) and
+  illustrates how TypeScript can be integrated into common frameworks (Angular,
+  React, Vue).
