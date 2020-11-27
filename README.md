@@ -1,4 +1,4 @@
-### Articles
+### Programming Languages
 
 * [(2020) Thriving in a crowded and changing world: C++ 2006–2020](https://dl.acm.org/doi/abs/10.1145/3386320):
   a medium-length (168 pages) retrospective on the evolution of C++ by Bjarne
@@ -10,6 +10,40 @@
   Allen Wifs-Brock (Microsoft at the time) and Brendan Eich (creator of
   Javascript).  Covers history of how the initial language was written in 10
   days, and how it's evolved through ECMA over time.
+* [(2019) Essential TypeScript](https://www.amazon.com/dp/B07WZXYTRH/):
+  tutorial-style book describing the TypeScript language which "builds on the
+  Javascript type system to create a safer and more productive development
+  experience".  Book is heavily focused on practitioners, with follow-along code
+  samples.  Also explains the ecosystem toolchain (npm, webpack, node, etc.) and
+  illustrates how TypeScript can be integrated into common frameworks (Angular,
+  React, Vue).
+
+### Fonts
+
+* [(2017) Font Rendering is Getting
+  Interesting](https://aras-p.info/blog/2017/02/15/Font-Rendering-is-Getting-Interesting/):
+  discusses techniques for efficiently rendering fonts at multiple scales
+  (without needing high resolution textures), in the context of computer
+  graphics.  The post itself is relatively brief, although contains many links
+  to more details sources.
+
+* [(2007) Improved alpha-tested magnification for vector textures and special
+  effects](https://dl.acm.org/doi/10.1145/1281500.1281665): Valve paper
+  describing the use of signed distance fields to efficiently represent "line
+  art" images such as text/signs/UI elements in textures, in a way that scales
+  well under heavy magnification.  Demonstrated in the context of text on a wall
+  in a video game, where the text will get larger/smaller based on the player's
+  position.
+
+### Latency
+
+* [(1996) Latency and the Quest for Interactivity](stuartcheshire.org/papers/LatencyQuest.pdf):
+  whitepaper describing the lack of attention given to latency in computer
+  modems at the time.  Includes some back-of-the-envelope calculations on where
+  latency is introduced, and what latency thresholds are required for certain
+  applications.  Briefly touches on latency hiding techniques.
+
+### Domain-Specific Accelerators & Novel Computing Hardware
 
 * [(2020) A Domain-Specific Supercomputer for Training Deep Neural Networks](https://cacm.acm.org/magazines/2020/7/245702-a-domain-specific-supercomputer-for-training-deep-neural-networks/fulltext):
   CACM article describing Google's TPU hardware architecture and supporting
@@ -23,18 +57,3 @@
   arithmetic functions and accesses to anywhere in a large global memory are all
   counted as unit-cost operations.  Points out that this model is highly
   unrealistic on modern hardware, especially GPUs.
-* [(1996) Latency and the Quest for Interactivity](stuartcheshire.org/papers/LatencyQuest.pdf):
-  Whitepaper describing the lack of attention given to latency in computer
-  modems at the time.  Includes some back-of-the-envelope calculations on where
-  latency is introduced, and what latency thresholds are required for certain
-  applications.  Briefly touches on latency hiding techniques.
-
-### Books
-
-* [(2019) Essential TypeScript](https://www.amazon.com/dp/B07WZXYTRH/):
-  Tutorial-style book describing the TypeScript language which "builds on the
-  Javascript type system to create a safer and more productive development
-  experience".  Book is heavily focused on practitioners, with follow-along code
-  samples.  Also explains the ecosystem toolchain (npm, webpack, node, etc.) and
-  illustrates how TypeScript can be integrated into common frameworks (Angular,
-  React, Vue).
