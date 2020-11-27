@@ -57,3 +57,23 @@
   arithmetic functions and accesses to anywhere in a large global memory are all
   counted as unit-cost operations.  Points out that this model is highly
   unrealistic on modern hardware, especially GPUs.
+
+### Effective Altruism
+
+* [(2020) The Precipice: Existential Risk and the Future of
+  Humanity](https://www.amazon.com/Precipice-Existential-Risk-Future-Humanity/dp/0316484911):
+  discusses the risks of human extinction, with a particular focus on this century.
+  .  Estimates the risk at 1 in 6, this century.  Concludes that anthropogenic
+  (human-made) risks far outweigh natural risks.
+* [(2019) Will Companies Make Good on Cage-Free
+  Pledges?](https://www.openphilanthropy.org/blog/will-companies-make-good-cage-free-pledges):
+  a status update on progress different companies have/have not made on their
+  cage-free pledges.
+* [(2017) Ending factory farming as soon as
+  possible](https://80000hours.org/podcast/episodes/lewis-bollard-end-factory-farming/):
+  broad discussion of animal suffering and how best to go about solving it.
+  Among other things, describes how highly effective corporate campaigning has
+  been per dollar spent.
+* [(1975–2009) Animal Liberation](https://www.amazon.com/dp/0061711306/):
+  describes the conditions of animals in factory farms, experimentation on
+  animals, and makes a case for vegetarianism.
