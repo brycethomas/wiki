@@ -77,3 +77,39 @@
 * [(1975–2009) Animal Liberation](https://www.amazon.com/dp/0061711306/):
   describes the conditions of animals in factory farms, experimentation on
   animals, and makes a case for vegetarianism.
+
+### Finance
+
+**IRA**: Individual Retirement Account.  **Roth**: named after Senator William Roth.
+
+| Account Type       | Tax-Free Contrib.          | Tax-Free Contrib. Withdrawal | Tax-Free Earnings Withdrawal |
+| ------------------ | -------------------------- | ---------------------------- | ---------------------------- |
+| Traditional 401(k) | Yes (to $19.5k limit)      | No                           | No                           |
+| Roth 401(k)        | No                         | Yes                          | Yes                          |
+| Traditional IRA    | Yes                        | No                           | No                           |
+| Roth IRA           | No                         | Yes                          | Yes                          |
+| Regular Income     | No                         | N/A                          | No                           |
+
+
+
+* [(2019) Mad Fientist—Mega Backdoor
+Roth](https://www.madfientist.com/after-tax-contributions/): 401(k) has a
+pre-tax limit of $19.5k and an overall limit of $58k (2021).  Between pre-tax
+and overall, it's possible to contribute as much as $58k - $19.5k = $38.5k
+after-tax (assuming no company match).  The issue here is earnings on the
+after-tax contribution will also be taxed upon withdrawal, making after-tax
+contributions no more attractive than investing outside of retirement accounts
+completely.  The mega backdoor enables shunting after-tax contributions into a
+Roth IRA, where the earnings will not be taxed.
+* [(2016) Investing Returns on the
+  S&P500](https://github.com/zonination/investing/blob/master/README.md): a
+  gallery illustrating the returns of the S&P500 over 145 years, including
+  distributions of returns.
+* [(2011) Mr Money Mustache—How Much is TOO MUCH in your
+  401(k)?](https://www.mrmoneymustache.com/2011/11/11/how-much-is-too-much-in-your-401k/):
+  401(k) withdrawals before age 59.5 incur a 10% withdrawal penalty.  Strategy 2
+  and 3 in this article describe how to avoid the withdrawal penalty on a
+  portion of one's 401(k) balance.
+* [(1998) Retirement Savings: Choosing a Withdrawal Rate That Is
+  Sustainable](https://www.aaii.com/files/pdf/6794_retirement-savings-choosing-a-withdrawal-rate-that-is-sustainable.pdf):
+  a.k.a. "The Trinity Study".  This is the origin of "the 4 percent rule".
