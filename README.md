@@ -45,6 +45,13 @@
 
 ### Domain-Specific Accelerators & Novel Computing Hardware
 
+* [(2021) The Decline of Computers as a General Purpose
+  Technology](https://cacm.acm.org/magazines/2021/3/250710-the-decline-of-computers-as-a-general-purpose-technology/fulltext):
+  CACM article describing a trend away from general purpose CPUs to specialized
+  processors.  Discusses the slowing rate of improvement in general purpose
+  CPUs since around 1994, and slowing of virtuous cycle around universal processor
+  development.  Also includes data on the dwindling number of leading-edge
+  manufacturers (25 in 2003, 3 since 2017).
 * [(2020) A Domain-Specific Supercomputer for Training Deep Neural Networks](https://cacm.acm.org/magazines/2020/7/245702-a-domain-specific-supercomputer-for-training-deep-neural-networks/fulltext):
   CACM article describing Google's TPU hardware architecture and supporting
   components such as compiler and bf16 float format.  Benchmarks against
