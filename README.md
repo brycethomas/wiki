@@ -18,6 +18,18 @@
   illustrates how TypeScript can be integrated into common frameworks (Angular,
   React, Vue).
 
+### Programming Concepts
+
+* [Futures and Promises](http://dist-prog-book.com/chapter/2/futures.html):
+  discusses the history of futures/promises going back many decades across a
+  number of different programming languages.  Compares/contrasts the APIs
+  provided by these different languages, and also discusses different execution
+  models.
+* [Semaphores and Condition
+  Variables](http://dist-prog-book.com/chapter/2/futures.html): one of the
+  better explantions/comparisons I've found online.  If you know of a better one
+  please let me know.
+
 ### Fonts
 
 * [(2017) Font Rendering is Getting
