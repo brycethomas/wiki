@@ -132,3 +132,12 @@ Roth IRA, where the earnings will not be taxed.
 * [(1998) Retirement Savings: Choosing a Withdrawal Rate That Is
   Sustainable](https://www.aaii.com/files/pdf/6794_retirement-savings-choosing-a-withdrawal-rate-that-is-sustainable.pdf):
   a.k.a. "The Trinity Study".  This is the origin of "the 4 percent rule".
+* [(2021) Fuel for the F.I.R.E: Updating the 4% rule for early
+  retirees](https://personal.vanguard.com/pdf/ISGFIRE.pdf): white paper
+  discussing the 4 percent rule in the context of the F.I.R.E movement.
+  Compares the 30-year time horizon of the original "trinity study" to the
+  perhaps 50-year time horizon implied by F.I.R.E.  Discusses various
+  assumptions and risks in the original trinity study.  Take this paper with a
+  grain of salt.  The most surprising assumption is forecasted future returns
+  that are far lower than historical returns, based off the Vanguard Capital
+  Markets Model - a "proprietary financial simulation tool".
