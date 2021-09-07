@@ -26,7 +26,7 @@
   provided by these different languages, and also discusses different execution
   models.
 * [Semaphores and Condition
-  Variables](http://dist-prog-book.com/chapter/2/futures.html): one of the
+  Variables](https://cseweb.ucsd.edu/classes/sp17/cse120-a/applications/ln/lecture7.html): one of the
   better explantions/comparisons I've found online.  If you know of a better one
   please let me know.
 
