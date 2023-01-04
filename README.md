@@ -99,6 +99,8 @@
 
 ### Finance
 
+#### Account Type Summary
+
 **IRA**: Individual Retirement Account.  **Roth**: named after Senator William Roth.
 
 | Account Type       | Tax-Free Contrib.          | Tax-Free Contrib. Withdrawal | Tax-Free Earnings Withdrawal |
@@ -109,7 +111,7 @@
 | Roth IRA           | No                         | Yes                          | Yes                          |
 | Regular Income     | No                         | N/A                          | No                           |
 
-
+#### Articles
 
 * [(2019) Mad Fientist—Mega Backdoor
 Roth](https://www.madfientist.com/after-tax-contributions/): 401(k) has a
@@ -141,3 +143,20 @@ Roth IRA, where the earnings will not be taxed.
   grain of salt.  The most surprising assumption is forecasted future returns
   that are far lower than historical returns, based off the Vanguard Capital
   Markets Model - a "proprietary financial simulation tool".
+
+#### 401(k) Limits (2023, under 50 years of age)
+
+$22.5k pre-tax, and an overall limit of $66k.  Between pre-tax and overall,
+it's possible to contribute as much as $66k - $22.5k = 43.5k after-tax (assuming
+no company match).
+
+#### 401(k) Company Match Example (2023, under 50 years of age)
+
+Assume company matches $1 for $1 up to 50% of IRS pre-tax limit.  In 2023, this
+would be a company contribution of 0.5 * $22.5k = $11.25k.
+
+* Company match **does not** contribute to the pre-tax limit.  i.e. individual
+  can contribute $22.5k pre-tax plus get company $11.25k pre-tax for a total
+  pre-tax of $33.75k.
+* Company match **does** contribute to overall limit.  So after-tax
+  contributions would be limited to $66k - $33.75k = $32.75k.
