@@ -160,3 +160,75 @@ would be a company contribution of 0.5 * $22.5k = $11.25k.
   pre-tax of $33.75k.
 * Company match **does** contribute to overall limit.  So after-tax
   contributions would be limited to $66k - $33.75k = $32.75k.
+
+#### Social Security in Retirement
+
+##### Qualifying for Social Security
+
+To qualify at all, one needs ~10 years of cumulative work in the US.  It's based
+on a "credit" system.  40 credits are needed to qualify for social security, and
+you can earn at most 4 credits per year.  In 2023, every $1,640 earned in a year
+earns 1 credit, up to a 4-credit per-year maximum
+([source](https://www.ssa.gov/benefits/retirement/planner/credits.html)).
+
+##### Maximizing Social Security
+
+How much you're paid in social security is determined by your highest-earning 35
+years of your career.  If you have less than 35 years, the value "0" is
+substituted for each missing year.  There is a maximum social security tax each
+year.  For example, in 2023, income up to $160,200 is taxable at a 6.2%
+employee + 6.2% employer rate for a maximum tax of 160,200 * (0.062 * 2) =
+$19,864.80 (employee paying half of that).  If you meet this maximum in a year,
+then that maximizes that particular year's contribution (out of 35 years)
+towards maximizing the overall benefit.  If you have at least 35 years that
+reach this maximum tax contribution, then you can also maximize the social
+security payout during retirement.
+
+The specifics of how these calculations work can be found in [part 1 of Benefit
+Calculation Examples for Workers Retiring in
+2023](https://www.ssa.gov/oact/ProgData/retirebenefit1.html). Old year's
+earnings are adjusted to bring nominal earnings up to near-current wage levels.
+Based on taking the highest 35 years, an Average Indexed Monthly Earnings (AIME)
+is calculated.  The AIME in turn is used to calculate the Primary Insurance
+Amount (PIA), which is the the name for the main social security benefit.  See
+[part 2 of Benefit Calculation Examples for Workers Retiring in
+2023](https://www.ssa.gov/oact/ProgData/retirebenefit2.html). for an explanation
+of how AIME feeds into the PIA calculation.
+
+In 2023, here is the tl;dr on the maximum monthly benefit
+([source](https://faq.ssa.gov/en-us/Topic/article/KA-01897)):
+
+1. If you retire at "full retirement age" a.k.a. [Normal Retirement Age
+   (NRA)](https://www.ssa.gov/oact/ProgData/retirebenefit2.html), which is
+   currently 67 years for those born after 1960, then the maximum benefit is
+   $3,627/mo = $43,524/annum.
+2. If you retire at age 62 (earliest possible), the maximum benefit is $2,572/mo
+   = $30,864.
+3. Age 70 produces the highest ratio of retirement benefit to AIME ratio
+   (i.e. retiring later doesn't improve things).  If you retire at age 70, the
+   maximum benefit is $4,555/mo = $54,660/annum.
+
+If one is concerned with maximizing benefits, there is a tradeoff to consider in
+returing earlier vs later.  Earlier means less money per year, but some money in
+more years.  Later means more money per year, but no money in some years.
+
+##### Cost Of Living Adjustment (COLA)
+
+A Cost Of Living Adjustment
+([COLA](https://www.ssa.gov/oact/COLA/colaapplic.html)) is applied to social
+security payments each year. For 2019 through 2022, the COLAs were 1.6%, 1.3%,
+5.9%, and 8.7% respectively.
+
+##### Social Security Trust Fund is Running Out of Money
+
+Primarily due to lower birth rates, and secondarily due to increases in life
+expectancy, the fund in projected to only remain solvent until 2035 unless
+something is changed ([source](https://sgp.fas.org/crs/misc/IF10522.pdf)).
+Quoting that article under the heading "What Can Be Done to Restore Balance?":
+
+> Some of the more commonly discussed proposals
+> include increasing the amount of covered earnings subject
+> to the payroll tax (the taxable wage base), increasing the
+> payroll tax rate, raising the retirement age, modifying the
+> benefit formula, and changing the annual cost-of-living
+> adjustment (COLA) calculation.
