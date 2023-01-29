@@ -1,5 +1,11 @@
 ### Programming Languages
 
+* [(2022) Practically Correct, Just-in-Time Shell Script
+  Parallelization](https://www.usenix.org/conference/osdi22/presentation/kallas):
+  describes a just-in-time shell-script compiler (PaSh-JIT) that can offer
+  significant speedups when parallelization is possible.  Unlike reworking a
+  script to be explicitly parallel using commands like `parallel`, PaSh-JIT is
+  designed to be a drop-in replacement.
 * [(2020) Thriving in a crowded and changing world: C++ 2006–2020](https://dl.acm.org/doi/abs/10.1145/3386320):
   a medium-length (168 pages) retrospective on the evolution of C++ by Bjarne
   Stroustrup (creator of C++).  Title nominally says 2006-2020, but there's also
@@ -17,6 +23,7 @@
   samples.  Also explains the ecosystem toolchain (npm, webpack, node, etc.) and
   illustrates how TypeScript can be integrated into common frameworks (Angular,
   React, Vue).
+
 
 ### Programming Concepts
 
