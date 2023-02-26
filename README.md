@@ -199,7 +199,7 @@ Based on taking the highest 35 years, an Average Indexed Monthly Earnings (AIME)
 is calculated.  The AIME in turn is used to calculate the Primary Insurance
 Amount (PIA), which is the the name for the main social security benefit.  See
 [part 2 of Benefit Calculation Examples for Workers Retiring in
-2023](https://www.ssa.gov/oact/ProgData/retirebenefit2.html). for an explanation
+2023](https://www.ssa.gov/oact/ProgData/retirebenefit2.html) for an explanation
 of how AIME feeds into the PIA calculation.
 
 In 2023, here is the tl;dr on the maximum monthly benefit
@@ -225,6 +225,25 @@ A Cost Of Living Adjustment
 ([COLA](https://www.ssa.gov/oact/COLA/colaapplic.html)) is applied to social
 security payments each year. For 2019 through 2022, the COLAs were 1.6%, 1.3%,
 5.9%, and 8.7% respectively.
+
+##### Payments are A Non-Linear Function of AIME
+
+Note that per [Primary Insurance
+Amount](https://www.ssa.gov/oact/ProgData/retirebenefit2.html), the retirement
+amount does not grow linearly with AIME.  There are "bend points", where the
+payout has diminishing returns with increasing AIME.  E.g. 90% of the first
+$926 of AIME, 32% of the next ($5,583 - $926) of AIME, and 15% of the the next
+($10,503 - $5,583) of AIME.
+
+As an example, assume one worked only 10 years between 2013--2022 inclusive, at
+maximum contribution during those 10 years (e.g. $150,000 each year).  Their
+AIME would thus be `MAX_AIME` / 3.5 (10 years out of 35).  But the benefit would
+still be more than 1/3.5th (28%) of the maximum.  This example can be input into
+the [Online Benefits
+Calculator](https://www.ssa.gov/benefits/retirement/planner/AnypiaApplet.html),
+with a retirement age of 70 years, and shows an estimated montly retirement
+benefit of $2,213/mo.  This is 48% (not 28%) of the $4,555/mo number quoted
+earlier.
 
 ##### Social Security Trust Fund is Running Out of Money
 
