@@ -258,3 +258,45 @@ Quoting that article under the heading "What Can Be Done to Restore Balance?":
 > payroll tax rate, raising the retirement age, modifying the
 > benefit formula, and changing the annual cost-of-living
 > adjustment (COLA) calculation.
+
+#### Mortgage Tax Deductions
+
+Interest paid on the first $750,000 of a mortgage can be deducted from taxable
+income (married filing jointly).  E.g. imagine a home bought for $937,500 with a
+20% downpayment of $187,500, and thus a $750,000 mortgage.  Assume an interest
+rate of 7%, for an annual interest payment of $750,000 * 0.07 = $52,500.  To
+maximize deduction in this example, assume highest possible tax rate of 37%.  In
+this scenario, taxable income can be reduced by $52,500 * 0.37 = $19,425.
+
+##### Compared to the Standard Deduction
+
+In 2023 the standard deduction for married filing jointly is $27,700.  In other
+words, taking the mortgage tax deduction yields an improvement of $52,500 -
+$27,700 = $24,800 in money that can be deducted from taxable income.  Expressed
+as an absolute tax saving, this is $24,800 * 0.37 = $9,176 over taking the
+standard deduction.
+
+##### Attenuating Factors
+
+* The above example assumes the deduction is all coming from the highest tax
+  bracket: 37% for income over $693,751 for married filing jointly in 2023.
+  Measured against lower brackets the deduction will be worth less.
+* The Standard Deduction tends to increase over time, which should make it
+  increasingly attractive relative to the mortgage tax deduction as the years
+  go by.
+
+##### Amplifying Factors
+
+If mortgage rates were higher than the 7% quoted above.
+
+##### 2017 Changes with the Tax Cuts and Jobs Act
+
+Everything above is post-December 16, 2017.  Prior to this date, you could
+deduct interest on the first $1 million of the loan.  That was revised in the
+Tax Cuts and Jobs Act of 2017, down to $750,000.  The standard deduction was
+also substantially increased in the Tax Cuts and Jobs Act.  These two factors
+combined made the mortgage tax deduction less attractive, with the Tax Policy
+Center estimating that the number of taxpayers who take the mortage-interest
+deduction will fall from [34 million (20% of returns) in tax year 2017 to 14
+million (8% of returns) in
+2018](https://www.brookings.edu/articles/chipping-away-at-the-mortgage-deduction/).
