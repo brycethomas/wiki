@@ -306,8 +306,8 @@ million (8% of returns) in
 In addition to always owing underpaid taxes, a penalty is charged on tax
 underpayments unless either:
 
-1. >=90% of owed taxes were paid.
-2. >=110% of tax owed on the prior year's return has already been paid on this
+1. `>=90%` of owed taxes were paid.
+2. `>=110%` of tax owed on the prior year's return has already been paid on this
    year's return (>=100% if AGI was <= $150,000).
 
 A meaningful enough lift in income year-over-year will tend to exempt a person
