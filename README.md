@@ -300,3 +300,25 @@ Center estimating that the number of taxpayers who take the mortage-interest
 deduction will fall from [34 million (20% of returns) in tax year 2017 to 14
 million (8% of returns) in
 2018](https://www.brookings.edu/articles/chipping-away-at-the-mortgage-deduction/).
+
+#### Taxation Underpayment Penalty
+
+In addition to always owing underpaid taxes, a penalty is charged on tax
+underpayments unless either:
+
+1. >=90% of owed taxes were paid.
+2. >=110% of tax owed on the prior year's return has already been paid on this
+   year's return (>=100% if AGI was <= $150,000).
+
+A meaningful enough lift in income year-over-year will tend to exempt a person
+from paying the penalty under the 110% rule described above.  E.g. if they paid
+$10k in taxes in the prior year, and $11k in taxes in the subsequent year, they
+would not be charged a penalty, even if their total tax bill was something much
+larger like $100k. i.e. $89k would be owed, but no additional penalty
+([source](https://turbotax.intuit.com/tax-tips/small-business-taxes/estimated-taxes-how-to-determine-what-to-pay-and-when/L3OPIbJNw#:~:text=you%20will%20have%20to%20pay%20in%20110%20percent%20of%20your%20previous%20year%27s%20taxes%20to%20satisfy%20the%20%22safe%2Dharbor%22%20requirement.%20If%20you%20satisfy%20this%20test%2C%20you%20won%27t%20have%20to%20pay%20an%20estimated%20tax%20penalty%2C%20no%20matter%20how%20much%20tax%20you%20owe%20with%20your%20tax%20return.)).
+In 2023 this penalty is higher than in the recent past due to higher interest
+rates; it [is now
+7%](https://www.forbes.com/sites/nataliecolley/2023/07/29/selling-employer-stock-in-2023-beware-of-steep-irs-tax-penalties/).
+
+Note: there are some less common penalty exemptions other than 1 and 2 mentioned
+above, which aren't covered here.
