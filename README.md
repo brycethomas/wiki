@@ -112,7 +112,7 @@
 
 | Account Type       | Tax-Free Contrib.          | Tax-Free Contrib. Withdrawal | Tax-Free Earnings Withdrawal |
 | ------------------ | -------------------------- | ---------------------------- | ---------------------------- |
-| Traditional 401(k) | Yes (to $19.5k limit)      | No                           | No                           |
+| Traditional 401(k) | Yes (to $23k limit)        | No                           | No                           |
 | Roth 401(k)        | No                         | Yes                          | Yes                          |
 | Traditional IRA    | Yes                        | No                           | No                           |
 | Roth IRA           | No                         | Yes                          | Yes                          |
@@ -151,22 +151,22 @@ Roth IRA, where the earnings will not be taxed.
   that are far lower than historical returns, based off the Vanguard Capital
   Markets Model - a "proprietary financial simulation tool".
 
-#### 401(k) Limits (2023, under 50 years of age)
+#### 401(k) Limits (2024, under 50 years of age)
 
-$22.5k pre-tax, and an overall limit of $66k.  Between pre-tax and overall,
-it's possible to contribute as much as $66k - $22.5k = 43.5k after-tax (assuming
+$23k pre-tax, and an overall limit of $69k.  Between pre-tax and overall,
+it's possible to contribute as much as $69k - $23k = 46k after-tax (assuming
 no company match).
 
-#### 401(k) Company Match Example (2023, under 50 years of age)
+#### 401(k) Company Match Example (2024, under 50 years of age)
 
-Assume company matches $1 for $1 up to 50% of IRS pre-tax limit.  In 2023, this
-would be a company contribution of 0.5 * $22.5k = $11.25k.
+Assume company matches $1 for $1 up to 50% of IRS pre-tax limit.  In 2024, this
+would be a company contribution of 0.5 * $23k = $11.5k.
 
 * Company match **does not** contribute to the pre-tax limit.  i.e. individual
-  can contribute $22.5k pre-tax plus get company $11.25k pre-tax for a total
-  pre-tax of $33.75k.
+  can contribute $23k pre-tax plus get company $11.5k pre-tax for a total
+  pre-tax of $34.5k.
 * Company match **does** contribute to overall limit.  So after-tax
-  contributions would be limited to $66k - $33.75k = $32.75k.
+  contributions would be limited to $69k - $34.5k = $34.5k.
 
 #### Social Security in Retirement
 
@@ -242,8 +242,8 @@ still be more than 1/3.5th (28%) of the maximum.  This example can be input into
 the [Online Benefits
 Calculator](https://www.ssa.gov/benefits/retirement/planner/AnypiaApplet.html),
 with a retirement age of 70 years, and shows an estimated montly retirement
-benefit of $2,213/mo.  This is 48% (not 28%) of the $4,555/mo number quoted
-earlier.
+benefit of $2,213/mo = $26,556.  This is 48% (not 28%) of the $4,555/mo number
+quoted earlier.
 
 ##### Social Security Trust Fund is Running Out of Money
 
@@ -270,24 +270,26 @@ this scenario, taxable income can be reduced by $52,500 * 0.37 = $19,425.
 
 ##### Compared to the Standard Deduction
 
-In 2023 the standard deduction for married filing jointly is $27,700.  In other
+In 2024 the standard deduction for married filing jointly is $29,200.  In other
 words, taking the mortgage tax deduction yields an improvement of $52,500 -
-$27,700 = $24,800 in money that can be deducted from taxable income.  Expressed
-as an absolute tax saving, this is $24,800 * 0.37 = $9,176 over taking the
+$29,200 = $23,300 in money that can be deducted from taxable income.  Expressed
+as an absolute tax saving, this is $23,300 * 0.37 = $8,621 over taking the
 standard deduction.
 
 ##### Attenuating Factors
 
 * The above example assumes the deduction is all coming from the highest tax
-  bracket: 37% for income over $693,751 for married filing jointly in 2023.
-  Measured against lower brackets the deduction will be worth less.
+  bracket: 37% for income over $731,200 for married filing jointly in 2024.  In
+  other words, the maximum $8,621 tax saving cited above is only realized on a
+  taxable income of $731,200 + $52,500 = $783,700 or more. Measured against
+  lower brackets the deduction will be worth less.
 * The Standard Deduction tends to increase over time, which should make it
   increasingly attractive relative to the mortgage tax deduction as the years
   go by.
 
 ##### Amplifying Factors
 
-If mortgage rates were higher than the 7% quoted above.
+If mortgage interest rates were higher than the 7% quoted above.
 
 ##### 2017 Changes with the Tax Cuts and Jobs Act
 
@@ -306,9 +308,9 @@ million (8% of returns) in
 In addition to always owing underpaid taxes, a penalty is charged on tax
 underpayments unless either:
 
-1. `>=90%` of owed taxes were paid.
-2. `>=110%` of tax owed on the prior year's return has already been paid on this
-   year's return (>=100% if AGI was <= $150,000).
+1. `>= 90%` of owed taxes were paid.
+2. `>= 110%` of tax owed on the prior year's return has already been paid on
+   this year's return (`>= 100%` if AGI was `<= $150,000`).
 
 A meaningful enough lift in income year-over-year will tend to exempt a person
 from paying the penalty under the 110% rule described above.  E.g. if they paid
