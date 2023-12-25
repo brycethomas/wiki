@@ -324,3 +324,29 @@ rates; it [is now
 
 Note: there are some less common penalty exemptions other than 1 and 2 mentioned
 above, which aren't covered here.
+
+#### Checking Accounts vs. Savings Accounts and Regulation D
+
+On April 24th, 2020 [the Federal Reserve amended Regulation
+D](https://www.govinfo.gov/content/pkg/FR-2020-04-28/pdf/2020-09044.pdf) by
+removing the "six convenient transactions per month" limit on savings accounts.
+This was partly in response to COVID-19 to give depositors better access to
+their savings.  Following the suspension, banks were *allowed* but no longer
+*required* to enforce the six transaction limit.  Some banks continued to
+enforce the rule, while others did not.
+
+Savings accounts tend to earn higher interest than checking accounts.  The
+removal of the six convenient transaction limit makes savings account more
+attractive to use *like* a checking account.  For example, have employment wages
+deposit into a savings account rather than a checking account, and setup auto
+payments for credit card bills and other expenses from the savings account
+([discussion](https://www.cbsnews.com/news/maximize-your-savings-account-with-this-one-feature-experts-say/)).
+
+At time of writing, the Federal Reserve has no concrete plans to bring back the
+six transaction limit,
+[stating](https://www.federalreserve.gov/supervisionreg/savings-deposits-frequently-asked-questions.htm):
+
+> The Board does not have plans to re-impose transfer limits but may make
+> adjustments to the definition of savings accounts in response to comments
+> received on the Board’s interim final rule and, in the future, if conditions
+> warrant.
