@@ -270,7 +270,7 @@ this scenario, taxable income can be reduced by $52,500 * 0.37 = $19,425.
 
 ##### Compared to the Standard Deduction
 
-In 2025 the standard deduction for married filing jointly is $30,,000.  In other
+In 2025 the standard deduction for married filing jointly is $30,000.  In other
 words, taking the mortgage tax deduction yields an improvement of $52,500 -
 $30,000 = $22,500 in money that can be deducted from taxable income.  Expressed
 as an absolute tax saving, this is $22,500 * 0.37 = $8,325 over taking the
