@@ -270,18 +270,18 @@ this scenario, taxable income can be reduced by $52,500 * 0.37 = $19,425.
 
 ##### Compared to the Standard Deduction
 
-In 2024 the standard deduction for married filing jointly is $29,200.  In other
+In 2025 the standard deduction for married filing jointly is $30,,000.  In other
 words, taking the mortgage tax deduction yields an improvement of $52,500 -
-$29,200 = $23,300 in money that can be deducted from taxable income.  Expressed
-as an absolute tax saving, this is $23,300 * 0.37 = $8,621 over taking the
+$30,000 = $22,500 in money that can be deducted from taxable income.  Expressed
+as an absolute tax saving, this is $22,500 * 0.37 = $8,325 over taking the
 standard deduction.
 
 ##### Attenuating Factors
 
 * The above example assumes the deduction is all coming from the highest tax
-  bracket: 37% for income over $731,200 for married filing jointly in 2024.  In
-  other words, the maximum $8,621 tax saving cited above is only realized on a
-  taxable income of $731,200 + $52,500 = $783,700 or more. Measured against
+  bracket: 37% for income over $751,601 for married filing jointly in 2025.  In
+  other words, the maximum $8,325 tax saving cited above is only realized on a
+  taxable income of $751,601 + $52,500 = $804,101 or more. Measured against
   lower brackets the deduction will be worth less.
 * The Standard Deduction tends to increase over time, which should make it
   increasingly attractive relative to the mortgage tax deduction as the years
