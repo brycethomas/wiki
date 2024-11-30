@@ -259,6 +259,14 @@ Quoting that article under the heading "What Can Be Done to Restore Balance?":
 > benefit formula, and changing the annual cost-of-living
 > adjustment (COLA) calculation.
 
+There's also some discussion of what means testing would mean for Social
+Security
+[here](https://www.actuary.org/sites/default/files/files/Means_Testing_SS_IB.pdf)
+including some of the challenges it would present.  It suggests that the same
+tipping of the scales from "individual equity" to "social adequacy" might be
+achievable by having higher earners pay more during their working years rather
+than using means testing.
+
 #### Mortgage Tax Deductions
 
 Interest paid on the first $750,000 of a mortgage can be deducted from taxable
