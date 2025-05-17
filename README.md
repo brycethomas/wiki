@@ -150,6 +150,14 @@ Roth IRA, where the earnings will not be taxed.
   grain of salt.  The most surprising assumption is forecasted future returns
   that are far lower than historical returns, based off the Vanguard Capital
   Markets Model - a "proprietary financial simulation tool".
+* [(2018) Do Stocks Outperform Treasury
+  Bills?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2900447): 4 of
+  every 7 individual stocks performed worse than treasury bills.  The overall
+  outperformance of stocks over treasury bills is attributed to skewness --
+  average higher than median.  Some investors may prefer skewness and thus
+  select individual stocks over a diversified portfolio (worse "typical" return
+  than treasury bills, higher upside potential). [Rational Reminder podcast with
+  the author](https://youtu.be/NBeUtP28q3A).
 
 #### 401(k) Limits (2024, under 50 years of age)
 
